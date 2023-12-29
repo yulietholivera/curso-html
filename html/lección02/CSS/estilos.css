@@ -6,5 +6,10 @@ p{
     background-color:crimson;
     padding: 15px;
     border: 10px solid powderblue;
-    margin: 50px;
+    /*margin-top:40px;
+    margin-right:10px;
+    margin-bottom:20px;
+    margin-left:10px;*/
+    margin:auto 50px;
+    text-align: center;
 }
