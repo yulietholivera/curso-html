@@ -10,16 +10,23 @@
     <form>
         <label for="nombre">Nombre:</label><br/>
         <input type="text" id="nombre" name="nombre"
-               placeholder="Escribe tu nombre" required/><br/>
+               placeholder="Escribe tu nombre" required="true"/><br/>
 
         <label for="apellido">Apellido:</label><br/>
         <input type="text" id="apellido" name="apellido"
-               placeholder="Escribe tu apellido" required/><br/>
+               placeholder="Escribe tu apellido" required="true"/><br/>
+
+               
+               <label for="password">Password:</label><br/>
+               <input type="password" id="password" name="password"
+                       required="true"/><br/>
+       
+
 
         <input type="submit" value="Enviar"/>
         <input type="submit" formnovalidate="formnovalidate"
                value="Enviar sin validar"/>
-               
+
     </form>
 </body>
 </html>
