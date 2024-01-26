@@ -1,18 +1,39 @@
 h1{
  text-align: center;   
 }
-.rojo{
-    border: 10px solid firebrick;
-    /*background-color: firebrick;*/
+.punteado{
+    border-style: dotted;
 }
-.rosa{
-    border: 10px dashed rgb(255, 105, 180);
+.discontinuo{
+    border-style: dashed;
 }
-
-.amarillo{
-    border: 10px double #ffd700;
+.solido{
+    border: 10px solid red;
 }
-
-.azul{
-    border: 10px dotted rgb(64, 224, 208);
+.doble{
+    border: 5px double;
+}
+.surco{
+    border: 10px groove;
+    /*border-width: 10px;
+    border-style: groove;*/
+}
+.cresta{
+    border: 10px ridge;
+    
+}
+.recuadro{
+    border: 10px inset;
+}
+.outset{
+    border: 10px outset;
+}
+.sin_borde{
+    border: none;
+}
+.oculto{
+    border: hidden;
+}
+.mixto{
+    border-style: dotted solid dashed double;
 }
