@@ -2,24 +2,17 @@ h1{
  text-align: center;   
 }
 .rojo{
-    background-color: firebrick;
+    border: 10px solid firebrick;
+    /*background-color: firebrick;*/
 }
 .rosa{
-    background-color: hotpink;
+    border: 10px dashed rgb(255, 105, 180);
 }
 
 .amarillo{
-    background-color: gold;
+    border: 10px double #ffd700;
 }
-.violeta{
-    background-color: blueviolet;
-}
-.verde{
-    background-color: lime;
-}
+
 .azul{
-    background-color: turquoise;
-}
-.rojo, .rosa, .violeta{
-    color: white;
+    border: 10px dotted rgb(64, 224, 208);
 }
