@@ -4,10 +4,12 @@ h1{
 .punteado{
     border-style: dotted;
     border-width: 10px 5px 3px 2px;
+    border-color:crimson hotpink gold lime;
 }
 .discontinuo{
     border-style: dashed;
     border-width: thick;/*thin,medium,thick*/
+    border-color:hsl(203, 39%, 44%);
 }
 .solido{
     border: solid red;
