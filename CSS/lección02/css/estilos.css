@@ -3,15 +3,19 @@ h1{
 }
 .punteado{
     border-style: dotted;
+    border-width: 10px 5px 3px 2px;
 }
 .discontinuo{
     border-style: dashed;
+    border-width: thick;/*thin,medium,thick*/
 }
 .solido{
-    border: 10px solid red;
+    border: solid red;
+    border-width: 10px 5px 2px;
 }
 .doble{
-    border: 5px double;
+    border: 5px double blue;
+    border-width: 10px 5px;
 }
 .surco{
     border: 10px groove;
