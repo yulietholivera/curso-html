@@ -1,7 +1,4 @@
-*{
-    margin:0;
-    padding: 0;
-}
+
 
 h1{
 
@@ -10,10 +7,10 @@ h1{
 }
 div{
     padding: 10px 15px 5px 3px;
-    border: 0px solid #457b9d;
+    border: 1px solid #457b9d;
     margin: 0px;
     background-color: #f1faee;
-    width: 300px;
+    max-width: 100%;
     box-sizing: border-box;
     
 }
