@@ -8,9 +8,9 @@ h1{
 div{
     padding: 10px 15px 5px 3px;
     border: 1px solid #457b9d;
-    margin: 0px;
+    margin: 0 auto;
     background-color: #f1faee;
-    max-width: 100%;
+    max-width: 300px;
     box-sizing: border-box;
     
 }
