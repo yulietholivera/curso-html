@@ -18,3 +18,10 @@ h1{
 .rosa{
     background-color: deeppink;
 }
+.rgb{
+    background-color: rgb(131,56,236);
+}
+.rgba{
+    background-color: rgba(131,56,236, .5);
+
+}
