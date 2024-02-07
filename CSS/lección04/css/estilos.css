@@ -1,3 +1,4 @@
+
 h1{
     text-align: center;
     color: #e63946;
@@ -10,7 +11,7 @@ h1{
     text-align: center;
     margin: 5px auto;
     font-size: 10px;
-    float:left;
+    float: left;
 }
 .rojo{
     background-color: crimson;
@@ -22,12 +23,17 @@ h1{
     background-color: rgb(131,56,236);
 }
 .rgba{
-    background-color: rgba(131,56,236, .5);
-
+    background-color: rgba(131, 56, 236, .5);
 }
 .hexadecimal{
     background-color: #0091ad;
 }
-hex_transpariencia{
+.hexa_transparencia{
     background-color: #0090ad88;
+}
+.hsl{
+    background-color: hsl(195, 100%, 50%);
+}
+.hsla{
+    background-color: rgba(0, 191, 255, 0.5);
 }
