@@ -5,7 +5,7 @@ h1{
     text-shadow: 2px 2px 2px #ced4da;
     letter-spacing: 3px;
     word-spacing: 10px;
-    text-decoration: overline;
+    text-decoration: overline underline;
 
 }
 .caja{
@@ -19,5 +19,9 @@ h1{
 .texto{
     text-align: justify;
    /*direction: rtl;*/
-   
+   text-indent: 30px;
+   line-height: 1.5;
+   white-space: normal;
+   text-shadow: 1px 1px 2px #ced4da;
+
    }
