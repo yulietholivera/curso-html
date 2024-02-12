@@ -1,7 +1,7 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Sofia&family=Roboto&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Sofia|Roboto&effect=shadow-multiple&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Sofia&family=Roboto&display=swap');*/
 
 
 
@@ -11,7 +11,7 @@ h1{
     color: #ef476f;
     text-align: center;
     text-transform: uppercase;
-    text-shadow: 2px 2px 2px #ced4da;
+    text-shadow: 2px 2px 2px #282a2c;
     font-family: 'Sofia', cursive;;
 }
 .caja{
