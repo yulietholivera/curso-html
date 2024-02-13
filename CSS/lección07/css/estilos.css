@@ -29,11 +29,15 @@ h1{
     background-color: #5a189a;
 }
 .fuente_roboto{
+    /*
     font-family:'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-variant: small-caps;
     font-size: 20px;
+    */
+    /* font: font-style font-varian font-weight *font-size/line-heigth *font-family;*/
+    font: italic small-caps bolder 20px Roboto, snas-serif;
 }
 .fuente_georgia{
     font-family: Georgia, 'Times New Roman', Times, serif;
