@@ -6,9 +6,16 @@ h1,div,p{
     display: block;
     
 }
+h1{
+    display: none;
+}
+
 span{
-    display: inline;
+    display: inline
     border: 1px solid blue;
+}
+p{
+    visibility: hidden;
 }
 a{
     display: block;
