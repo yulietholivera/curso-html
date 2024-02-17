@@ -3,11 +3,23 @@ h1{
     color: crimson;
 }
 div.contenedor{
-    position: relative;
-    border: 3px dashed greenyellow;
     width: 30%;
     height: 100px;
     overflow: auto;
-    float: left;
-   
 }
+div.contenedor.flotado{
+    float: left;
+}
+div.contenedor.flotado.contenedor1{
+    border: 3px dashed greenyellow;
+}
+div.contenedor.flotado.contenedor2{
+    border: 3px dashed cornflowerblue;
+    float: right;
+}
+div.contenedor.contenedor3{
+    clear: both;
+    border: 3px dashed darkorange;
+    margin: auto;
+}
+
