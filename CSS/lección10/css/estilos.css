@@ -18,4 +18,13 @@ div.relativo{
     border: 3px solid blueviolet;
     background-color: whitesmoke;
 }
+div.absoluto{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 112px;
+    border: 3px solid cornflowerblue;
+    background-color: whitesmoke;
+    z-index: -10000;
+}
 
