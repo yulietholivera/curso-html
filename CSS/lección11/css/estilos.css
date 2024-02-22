@@ -11,5 +11,8 @@ div.contenedor{
     color: #457b9d;
 }
 div.contenedor.descendiente p{
-background-color: #fdffb6;
+background-color: #fdffb7;
+}
+div.contenedor.hijo > p{
+background-color: #ffc6ff;
 }
