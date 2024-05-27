@@ -1,0 +1,117 @@
+[33m5d0046b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m 129. Pseudo Elementos en CSS
+[33ma0aef4c[m[33m ([m[1;31morigin/main[m[33m)[m 129. Pseudo Elementos en CSS
+[33m1e62a4b[m 128. Pseudo Clases en CSS
+[33mafa7f1b[m 127. Selectores Sibling en CSS
+[33m196ef11[m 126. Selector Child en CSS
+[33m960f79c[m 125. Selectores Descendientes en CSS
+[33me16b311[m 124. Menú con la propiedad Display Inline-Block en CSS
+[33m7040e08[m 123. Propiedad Display Inline-Block en CSS
+[33mb4d67ff[m 122. Float en CSS - parte 2
+[33me998bc8[m 121. Float en CSS
+[33m9dd5a52[m 20. Propiedad Overflow en CSS
+[33mbf30862[m 119. Ejercicio - Imagen con Texto Centrado
+[33m8bf3cdb[m 118. Ejercicio z-index - parte 2
+[33mbcc3805[m 117. Ejercicio z-index en CSS
+[33me341464[m 116. Propiedad z-index en CSS
+[33m37910f6[m 115. Posicionamiento Sticky en CSS
+[33m7aad0ff[m 114. Posicionamiento Absoluto en CSS
+[33me0a4506[m 113. Posicionamiento Fixed en CSS
+[33m136181c[m 112. Posicionamiento Relativo en CSS
+[33mf66efc4[m 111. Posicionamiento Estático en CSS
+[33mf9eefe6[m 110. Centrar elementos de tipo Div con CSS
+[33m6f6afe9[m 109. Propiedad Display en CSS - parte 3
+[33mc17565c[m 108. Propiedad Display en CSS - parte 2
+[33m00d475c[m 107. Propiedad Display en CSS
+[33ma0e65e7[m 106. Íconos de Ionic en CSS
+[33m5366160[m 105. Íconos de Google en CSS
+[33m32a8e42[m 104. Íconos de Bootstrap en CSS
+[33m4a77ebe[m 103. Atributo font en CSS
+[33m9a31763[m 102. Efectos con Google Fonts
+[33m777d28f[m 101. Google Fonts con CSS
+[33m03a926a[m 100. Tamaño de Fuente en CSS
+[33m22a5495[m 99. Estilos de Fuentes en CSS
+[33md0ea2ca[m 98. Manejo de Fuentes en CSS - parte 3
+[33m9931002[m 97. Manejo de Fuentes en CSS - parte 2
+[33me95924f[m 96. Manejo de Fuentes en CSS
+[33mf743fbb[m 95. Formato de Texto en CSS - parte 4
+[33mef42a88[m 94. Formato de Texto en CSS - parte 3
+[33m2535d67[m 93. Formato de Texto en CSS - parte 2
+[33m487a1b0[m 92. Formato de Texto en CSS
+[33m8040b9c[m 91. Manejo de Fondos - parte 2
+[33m9508758[m 90. Manejo de Fondos en CSS
+[33m843b12c[m 89. Código de Colores HSL en CSS
+[33m97e1790[m 88. Código Hexadecimal
+[33m2edd6bf[m 87. Código de Colores RGB en CSS
+[33mea955ff[m 86. Manejo de Colores en CSS
+[33m14be2c7[m 85. Concepto de margin collapse en CSS
+[33m7c3e901[m 84. Propiedad inherit en CSS
+[33m390a4fd[m [200~
+[33m406571c[m 83. Propiedad margin: auto para centrar elementos en CSS
+[33md1e3980[m 82. Propiedad max-width en CSS
+[33mb713091[m 81. Box Sizing en CSS
+[33me90f5c7[m 80. Padding en CSS
+[33maf692a1[m 79. Outline Offset en CSS
+[33mfc61098[m 78. Outline en CSS
+[33maec1a93[m 77. Ancho Elementos Box Model en CSS
+[33m4ee14e4[m 76. Box Model en CSS
+[33m05b5252[m 74. Códigos de Colores en Bordes CSS
+[33mc10098a[m 74. Códigos de Colores en Bordes CSS
+[33md568083[m 73. Ancho en Bordes con CSS
+[33md731439[m 72. Manejo de Bordes en CSS
+[33m0a1cc67[m 71. Colores y Bordes en CSS
+[33md4f186f[m 70. Colores por nombre en CSS
+[33md781f35[m 69. Subclases en CSS
+[33m64a4605[m 68. Agrupar Selectores CSS
+[33m230d80c[m 67. Selector Universal en CSS
+[33mfe0f744[m 66. Clases en CSS
+[33m2ac22ab[m 65. Selector ID en CSS
+[33m6c3ea8d[m 64. Formas de Aplicar Estilos CSS
+[33mdf7a97c[m 63. Introducción a CSS
+[33m92056c2[m 62. Mejora CSS a los elementos Semánticos
+[33md6301b5[m 61. Ejercicio Elementos Semánticos en HTML
+[33m7f59990[m 60. Elementos Semánticos en HTML
+[33m0eafbdb[m 59. Formulario Login con CSS - parte 2
+[33m48433f7[m 58. Formulario Login con CSS - parte 1
+[33mcc5230c[m 55. Atributos del elemento form en HTML
+[33m0fc5d78[m 54. Fieldset y Legend en Formularios HTML
+[33mecbc796[m 53. Elemento Select y TextArea en HTML
+[33mb3dbefd[m 52. Radiobuttons y Checkboxes en Formularios HTML
+[33m83f110b[m 52. Radiobuttons y Checkboxes en Formularios HTML
+[33m04266e8[m 51. Tipos Email y Number en Formularios HTML
+[33m77a5158[m 50. Método GET y POST HTTP
+[33m6acce26[m 49. Validar Formularios en HTML
+[33m8c0e815[m 48. Formularios en HTML - parte 2
+[33md9ec399[m 47. Formularios en HTML
+[33m2d553db[m 46. iFrames en HTML
+[33m16cfe74[m 45. Marcadores o Bookmarks con HTML
+[33m46a1530[m 44. Atributo id en HTML y CSS
+[33m3ab8aa3[m 43. Atributo class - parte 2
+[33m17b6cb6[m 42. Atributo class en HTML y CSS
+[33m8d47e54[m 41 Elementos block (div) en HTML
+[33m545f605[m 40. Elementos inline y block en HTML
+[33m9c41347[m del video 29 hasta el 39
+[33m286d72d[m 29. Links como Botones en HTML y CSS
+[33m3f31305[m 28. Links con Imágenes en HTML.
+[33m93d89d2[m 27. Estados y colores de los links en HTML y CSS
+[33m4872b08[m 26. Ejemplo de Paleta de Colores en HTML
+[33mb6b4921[m 25. Manejo de Padding, Border y Margin en CSS
+[33m300e907[m 24. Box Model en CSS
+[33m23abeba[m 23. Cascadeo en las Hojas de Estilo CSS
+[33md72bd9c[m 22. Introducción a CSS (Cascading Style Sheets)
+[33mee3b215[m 21. Manejo de Colores en CSS y HTML - parte 2
+[33m5751cfc[m 20. Manejo de Colores en CSS y HTML
+[33mfd03243[m 19. Link para enviar un Email en HTML
+[33mc3eb66d[m 18. Solución Ejercicio Links en HTML
+[33m040f4d5[m 16. Referencias de Caracteres en HTML
+[33mec80863[m 15. Formato a Texto en HTML
+[33me9dc3a7[m 14. Aplicar Estilos CSS en HTML
+[33ma88959b[m 13. Manejo de Atributos en HTML
+[33mf0a957a[m 12. Manejo de Imágenes con HTML
+[33mcc26a04[m 11. Links en HTML
+[33m2c4a9ca[m 10. Párrafos en HTML~
+[33m6191ba4[m 9. Títulos en HTML
+[33mb0a0049[m 8. Generación Automática de HTML
+[33m34e17d7[m 7. Meta UTF-8 en HTML
+[33m6ce1aeb[m 6. Formas de Ejecutar la Página Web HTML
+[33mf24f556[m 05. Mi primer página HTML
+[33m833ef13[m first commit
