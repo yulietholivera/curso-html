@@ -3,9 +3,12 @@ Ejemplos de
  tipos de datos 
  en JavaScript
 */
-//Tipo de dato stringz
+//Tipo de dato strings
 var nombre = "Carlos";
-console.log(nombre)
+console.log(typeof nombre)
+
+nombre =10.5;
+console. log(typeof nombre);
 
 //Tipo  de dato numerico
 var numero = 1000;
@@ -18,4 +21,4 @@ var objeto = {
     telefono: "320998887"
 };
 
-console.log(objeto); // Asegúrate de que el nombre sea exactamente igual
+console.log(typeof objeto); 
