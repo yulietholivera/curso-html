@@ -1,5 +1,5 @@
 var nombre = 'Juan';
-var apellido ='Perez';
+var apellido =  'Perez';
 
 var nombreCompleto = nombre + ' ' + apellido;
 console.log(nombreCompleto);
